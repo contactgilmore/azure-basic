@@ -1,0 +1,1 @@
+### module/virtual-network/outputs.tf ###

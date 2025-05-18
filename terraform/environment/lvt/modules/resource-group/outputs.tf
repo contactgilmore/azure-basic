@@ -1,0 +1,1 @@
+### module/resource-group/outputs.tf ###
