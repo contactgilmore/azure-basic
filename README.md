@@ -1,4 +1,4 @@
-# Sr. Cloud Engineer
+# Azure - Basic Infrastructure (Terraform)
 >This is a basic Terraform deployment showing Terraform capabilities within Azure cloud.
 >
 >Ideally this would be deployed using github actions:
